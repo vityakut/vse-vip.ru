@@ -17,7 +17,7 @@ class Yml
 
     public function __construct()
     {
-//        $this->download();
+        $this->download();
         $this->getPrice();
 
     }
